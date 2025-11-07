@@ -5,3 +5,7 @@ Repository created for hello world exercise in Github session of Basic Bioninfor
 I am introducing a new change to this branch.
 
 [Create account exercise](https://github.com/Anacristina0914/GitHubIntro/blob/main/README.md)
+
+
+## Gene info
+Here I will add the gene information for my data
