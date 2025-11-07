@@ -7,5 +7,7 @@ I am introducing a new change to this branch.
 [Create account exercise](https://github.com/Anacristina0914/GitHubIntro/blob/main/README.md)
 
 
+## Protein info
+Here I will create a space to add my protein info.
 ## Gene info
 Here I will add the gene information for my data
